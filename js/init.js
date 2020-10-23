@@ -137,7 +137,6 @@ class AutocompleteDirectionsHandler {
                         $(".alert").hide();
                     }, 2000);
                 }
-                check(this.distance, Number(kids_num.innerHTML), calculate_btn);
             }
         );
     }
